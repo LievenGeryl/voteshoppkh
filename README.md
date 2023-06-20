@@ -55,15 +55,15 @@ Pyromancer hood - 20708 - 250pts - See above
 Pyromancer boots - 20710 - 250pts - See above
 
 
-Silly jester hat - 10836 - 250 - Nice fashionscape set. Looks fine on both male & female models. Item model in inventory\bank looks a bit weird. Destroy option needs to become drop option, and also drop the item. Suggested initial price: 200M-300M
+Silly jester hat - 10836 - 250 - Nice fashionscape set. Looks fine on both male & female models. Item model in inventory\bank looks a bit weird. Destroy option needs to become drop option, and also drop the item. Suggested initial price: 200M-300M *
 
-Silly jester top - 10837 - 250pts - See above
+Silly jester top - 10837 - 250pts - See above *
 
-Silly jester tights - 10838 - 250pts - See above
+Silly jester tights - 10838 - 250pts - See above *
 
-Silly jester boots - 10839 - 250pts - See above
+Silly jester boots - 10839 - 250pts - See above *
 
-
+* These items could be obtained with a holiday event, so I understand if you would choose not to add these.
 
 Cow mask - 11919 - 100pts - Equips in weapon slot. Looks fine. Fun little fashionscape item. Suggested initial price: 75M-125M
 
