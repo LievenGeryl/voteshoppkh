@@ -102,4 +102,4 @@ https://forums.pkhonor.net/viewtopic.php?f=73&t=83703 - Vote Rewards for Ironmen
 
 I didn't go with all the skilling sets. The others may be introduced with another update which also gives them their skill bonuses. For now I just took the coolest looking ones. I'd have included graceful, but it's completely broken (every single graceful item looks bugged and either cant be equipped or equips in the weapon slot) and would be a lot of effort for what would be a mininmal-effort but high-impact update.
 
-I didn't include the anger items suggested by Thearlygamer. Many of those custom servers with Pokemons and ak47s have these as over-the-top OP weapons. 
+I didn't include the anger items suggested by Thearlygamer. Many of those custom servers with Pokemons and ak47s have these as over-the-top OP weapons and it doesn't feel right to have them on PKH. 
