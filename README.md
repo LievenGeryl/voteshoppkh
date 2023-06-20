@@ -95,7 +95,7 @@ Advanced mystery box - 290 - No one buys this anyways. Very expensive for what i
 
 
 
-#### Some sources & additional notes
+## Some sources & additional notes
 https://forums.pkhonor.net/viewtopic.php?f=134&t=81790 - Iron Man Vote Shop by Church
 
 https://forums.pkhonor.net/viewtopic.php?f=73&t=83703 - Vote Rewards for Ironmen by Thearlygamer
