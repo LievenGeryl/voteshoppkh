@@ -77,9 +77,9 @@ Banana hat - 25840 - 2500pts - Equips in weapon slot. Destroy option needs to be
 
 Prop sword - 22316 - 1000pts - Looks fine on both male & female characters. Suggested initial price: 750M-1250M
 
-3rd age pickaxe - 20014 - 5000pts - Flex item. Looks fine on both character models. Would have same functionality as a sacred clay pickaxe.
+3rd age pickaxe - 20014 - 5000pts - Flex item. Looks fine on both character models. Would have same functionality as a sacred clay pickaxe. Untradeable.
 
-3rd age axe - 20011 - 5000pts - Flex item. Looks fine on both character models. Would have same functionality as a dragon axe.
+3rd age axe - 20011 - 5000pts - Flex item. Looks fine on both character models. Would have same functionality as a dragon axe. Untradeable.
 
 ### Items that need some major fixing
 
