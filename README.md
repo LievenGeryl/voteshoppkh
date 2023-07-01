@@ -16,7 +16,7 @@ Dark bow (yellow) - 43010 - 200 pts + dark bow (11235) - See above
 
 Dark bow (white) - 43012 - 200 pts + dark bow (11235) - See above
 
-Brown afro - 43004 - 500pts + Powdered wig (10392) - Fine for ironman. Remove them from clues or leave as is. No reason why there shouldn't be a less RNG-dependent way to obtain them. Still takes a while to save up regardless & this, and the next few items, you still need to do a ton of clues to get the 'ingredients' for them.
+Brown afro - 43004 - 500pts + Powdered wig (10392) - Fine for ironman. Remove them from clues or leave as is. No reason why there shouldn't be a less RNG-dependent way to obtain them. Still takes a while to save up regardless & for this, and the next few items, you still need to do a ton of clues to get the 'ingredients' for them.
 
 Rainbow afro - 12430 - 250pts + Brown afro (43004) - See above.
 
