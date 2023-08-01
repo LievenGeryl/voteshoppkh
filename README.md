@@ -24,10 +24,10 @@ How to access these "paths" and see your progress? Well, we change the functiona
 ### Crates
 While they may look the same, they're not. They're dependent on the path you got them from, so it'd be Skilling Crates, PVM Crates & PK Crates.
 
-They are guaranteed to give between 10-30 vote points & the rest of their contents are randomized, but appropriate for the path they come from. [Click here to see the rewards these crates would offer & how these crates would work](https://github.com/LievenGeryl/voteshoppkh/blob/main/crates.md)
+They are guaranteed to give between 10-30 vote points & the rest of their contents are randomized, but appropriate for the path they come from. [Click here](https://github.com/LievenGeryl/voteshoppkh/blob/main/crates.md) to see the rewards these crates would offer & how these crates would work.
 
 ### Items
-At the end of your path, you will receive an item that can be helpful. It will remain on your account until the next reset. I just took a few random items to illustrate it, but obviously an AGS or once-a-day death touched dart wont cut it. I'm trying to make these items worth voting for, but not too OP. I noted some ideas for these items down [here](https://github.com/LievenGeryl/voteshoppkh/blob/main/items.md)
+At the end of your path, you will receive an item that can be helpful. It will remain on your account until the next reset. I just took a few random items to illustrate it, but obviously an AGS or once-a-day death touched dart wont cut it. I'm trying to make these items worth voting for, but not too OP. I noted some ideas for these items down [here](https://github.com/LievenGeryl/voteshoppkh/blob/main/items.md).
 
 ## **Keep in shop**
 
