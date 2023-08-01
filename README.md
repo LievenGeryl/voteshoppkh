@@ -27,7 +27,7 @@ As you can see on the wireframe, it's a bunch of crates and then ends at an item
 ### Crates
 While they may look the same, they're not. They're dependent on the path you got them from, so it'd be Skilling Crates, PVM Crates & PK Crates.
 
-They are guaranteed to give between 10-30 vote points & the rest of their contents are randomized, but appropriate for the path they come from. [Click here](https://github.com/LievenGeryl/voteshoppkh/blob/main/crates.md) to see the rewards these crates would offer & how these crates would work.
+They are guaranteed to give between 10-50 vote points & the rest of their contents are randomized, but appropriate for the path they come from. [Click here](https://github.com/LievenGeryl/voteshoppkh/blob/main/crates.md) to see the rewards these crates would offer & how these crates would work.
 
 ### Items
 At the end of your path, you will receive an item that can be extremely helpful but have a limited "lifespan". **These will remain on your account until the next reset, which keeps you constantly voting if you want access to these items.** I just took a few random items to illustrate it while wireframing, but obviously an AGS or once-a-day death touched dart wont cut it. I'm trying to make these items worth voting for, but not too OP. I noted some ideas for these items down [here](https://github.com/LievenGeryl/voteshoppkh/blob/main/items.md).
