@@ -1,3 +1,17 @@
+## **Voting system rework**
+
+I could've sworn we have/had vote "streaks", with RL being the one that rewards players the most, I figured that'd be the main incentive to keep voting daily. I reconsidered it and realized that even if we have or had streaks its actually not that good of an incentive, hell, I don't even vote.
+
+Moving on to the WarThunder system. It actually looks quite neat and refreshing, and I got some additional ideas to cater it to PKHonor while also having an actual shop. I'll wireframe a bit to give some visual aid, don't mind the shitty photoshopping & things not being to scale. 
+
+### The system itself
+
+One of the first considerations is how we would require the players to get progress. If RL is the most important one, then a registered vote for RL is all we really need. If we want them to vote for every single site, then that's the requirement.
+
+There are 3 "paths" you can take & max out every month. It also resets every month. I was thinking 10-10-10, although that is an issue for february. For an outlier like that, I suggest something like a voting event during february, where one vote counts as two for the progress. 
+These paths I spoke of would be, as you guessed it, the path of the PVMer, PKer & Skiller.
+
+
 ## **Keep in shop**
 
 `Item name\description - ID - Required items - Notes`
