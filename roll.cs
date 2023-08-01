@@ -17,7 +17,7 @@ public class CrateRollSystem
         List<Item> ItemsToGive = new();
         int streakDays = 5; // Replace this with the player's actual streak days
         double chance = CalculateChance(streakDays);
-        for (double i = chance; i < 0; i - 0.1) 
+        for (double i = chance; i > 0; i - 0.1) 
         {
           //Insert condition for random here, I'm not trying to write the entire method here
           if(!isSuccess) { return ItemsToGive; }
