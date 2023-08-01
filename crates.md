@@ -1,11 +1,11 @@
 ## How rewards get picked
 
 **!!IMPORTANT!!**
-This can be slightly if one path is worth more GP on average than the other, as players could choose to max out the "lesser" path first to maximize loot on the better path. Therefor, these rewards aren't very balanced (or fleshed out) yet.
-Amount is the range these rewards vary in. 
+This system can be abused if one path is worth more GP on average than the other, as players could choose to max out the "lesser" path first to maximize loot on the better path. Therefor, these rewards aren't very balanced (or fleshed out) yet. It's just a proposal/draft and can be edited.
+Amounts are the lower & upper boundary, randomly selected. 
 
 It is possible to get one or multiple extra rolls. This depends on your streak. I was thinking something along the lines of: 
-You have a 10% base chance on getting an extra roll. Every day you get another 10% chance, which caps at 9. This means that if you focus on just one path and reach your last crate (before you get the end item), you would have a 100% chance at an extra roll. For every extra roll a player gets, they get 10% less on the next attempt at a reroll. I've C#-pseudo-code-ified it a bit [here](https://github.com/LievenGeryl/voteshoppkh/blob/main/roll.cs)
+You have a 10% base chance on getting an extra roll. Every day you get another 10% chance, which caps at 9. This means that if you focus on just one path and reach your last crate (before you get the end item), you would have a 100% chance at an extra roll. For every extra roll a player gets, they get 10% less on the next attempt at a reroll. If my explanation isn't the best, I've C#-pseudo-code-ified it a bit [here](https://github.com/LievenGeryl/voteshoppkh/blob/main/roll.cs) so you can get a better idea about what I'm thinking of.
 
 
 ## Limitations
@@ -16,7 +16,7 @@ These go in effect immediately when you open the crate. Getting a booster while 
 
 
 # Rewards
-I have based these mainly on what I think would be cool
+I have based these mainly on what I think would be cool & things that Adam has given out during community PvM events.
 
 ## Skilling crate
 
@@ -25,6 +25,7 @@ I have based these mainly on what I think would be cool
 - 1000-5000 Runite bar
 - 2500-5000 dragon bolts (unf)
 - 100-1000 torstol, extreme attack, extreme ranged, ... (supplies for 100-1K overloads)
+- 1-10 100M ticket
 - 30min-2h of double fletching XP
 - 30min-2h of double woodcutting & firemaking XP
 - 30min-1h of double construction XP
@@ -36,6 +37,7 @@ I have based these mainly on what I think would be cool
 - 1-2K opal/jade/diamond dragon bolts (e) (All the ones besides ruby, since those are for PVM)
 - 3-6h double BH point booster (stacks with events)
 - 1-2h double PKP booster (stacks with events)
+- 1-10 100M ticket
 - 1-5 Dharok's armor set
 - 1-5 Ahrim's armor set
 - 1-5 Karil's armor set
@@ -49,5 +51,6 @@ I have based these mainly on what I think would be cool
 - 1-8h of double Combat XP
 - 1-6h of double GWD KC(?)
 - 10,000 Ruby Dragon Bolts(e)
-- Very rare chance of getting a Preserve scroll
+- 1-10 100M ticket
+- Very rare chance of getting 1 Preserve scroll
 - etc.
