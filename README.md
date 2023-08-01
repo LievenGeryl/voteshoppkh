@@ -11,6 +11,9 @@ One of the first considerations is how we would require the players to get progr
 There are 3 "paths" you can take & max out every month. It also resets every month. I was thinking 10-10-10, although that is an issue for february. For an outlier like that, I suggest something like a voting event during february, where one vote counts as two for the progress. 
 These paths I spoke of would be, as you guessed it, the path of the PVMer, PKer & Skiller.
 
+How to access these "paths" and see your progress? Well, we change the functionality of the ::vote command to display the interface. When they press the "vote" button for their chosen path, they get redirected to the vote page, but this way we know **what** path they're voting for.
+
+
 
 ## **Keep in shop**
 
